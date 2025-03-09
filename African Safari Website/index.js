@@ -1,0 +1,1 @@
+Console.log("If you cant write a for loop you are staying in the hood");
